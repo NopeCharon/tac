@@ -10,7 +10,7 @@
 * [GitHub](https://github.com/ossf/wg-supply-chain-integrity); 23 contributors (**–**)
 * [Mailing List](https://lists.openssf.org/g/openssf-supply-chain-integrity); 182 members (▼**1**))
 * [Slack](https://app.slack.com/client/T019QHUBYQ3/C01A1MA7A1K); 927 members (**▲37**)
-* [Meeting Notes](ssci.io/sci-notes); 9 attendees average since last TAC briefing (▼**1**)
+* [Meeting Notes](http://ssci.io/sci-notes); 9 attendees average since last TAC briefing (▼**1**)
 
 **tl;dr**: SLSA releases v1.1; GUAC readies v1.0; gittuf reaches beta v0.10.0.
 
